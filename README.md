@@ -1,1 +1,2 @@
 # WhatsUpWithTone
+Welcome to my portfolio! This project showcases my skill in coding with the presentation of my webage and displays other projects I have completed or are currently working on. The webpage alson contains a bit of a background about me and how to get into contact with me. Enjoy!

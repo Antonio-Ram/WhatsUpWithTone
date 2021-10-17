@@ -1,40 +1,52 @@
-/*Maybe find some fonts>*/
+/*Maybe find some fonts
+ Would like a blue background with the grey on top but its overwriting and just showing blue*/
+
 .header {
-    background-color: rgb(177, 174, 174)
+    background-color: rgb(177, 174, 174);
 }
-.header nav {
+.nav {
     float: right;
     position: absolute;
     top: 2px;
     right: 8px;
+    display: flex;
 }
 .main {
     background-color: rgb(177, 174, 174);
 }
+.AboutMe {
+    display: flex;
+    flex-direction: row;
+}
+
 .AboutMe img {
     height: 300px;
+    padding: 10px;
 }
-.AboutMe p {
-    float: right ;
-    position: relative;
-    top: 0;
-    right: 0;
-    /*want to get words in line with my picture*/
+.article {
+    padding: 10px;
 }
-.MyWork h1{
+.MyWork h1 {
     text-align: center;
 }
-.run-buddy {
+.MyWork h2 {
+    text-align: center;
+}
+.Run-Buddy {
+    display: flex;
+    justify-content: center;
     text-align: center;
 }
 .other {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     text-align: center;
 }
 .other img {
     width: 200px;
     height: 200px;
     margin: 5px;
-    padding: 50px;
+    padding: 5px;
     border: 5px;
-
 }
