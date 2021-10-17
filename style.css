@@ -1,0 +1,44 @@
+/*Mayne find some fonts>*/
+.header {
+    background-color: yellow;
+}
+.header h1 {
+    color: blue;
+}
+.header h2 {
+    color: blue;
+}
+.header nav {
+    float: right;
+    position: absolute;
+    top: 2px;
+    right: 8px;
+    /*want to get in line wiht my name*/
+}
+.main {
+    background-color: rgb(177, 174, 174);
+}
+}
+.AboutMe p {
+    
+    /*want to get in line with my picture*/
+}
+.MyWork h1{
+    text-align: center;
+}
+.run-buddy {
+    text-align: center;
+}
+.other {
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+}
+.other img {
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+
+}
