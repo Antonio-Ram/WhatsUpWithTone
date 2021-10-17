@@ -1,27 +1,25 @@
-/*Mayne find some fonts>*/
+/*Maybe find some fonts>*/
 .header {
-    background-color: yellow;
-}
-.header h1 {
-    color: blue;
-}
-.header h2 {
-    color: blue;
+    background-color: rgb(177, 174, 174)
 }
 .header nav {
     float: right;
     position: absolute;
     top: 2px;
     right: 8px;
-    /*want to get in line wiht my name*/
 }
 .main {
     background-color: rgb(177, 174, 174);
 }
+.AboutMe img {
+    height: 300px;
 }
 .AboutMe p {
-    
-    /*want to get in line with my picture*/
+    float: right ;
+    position: relative;
+    top: 0;
+    right: 0;
+    /*want to get words in line with my picture*/
 }
 .MyWork h1{
     text-align: center;
@@ -30,15 +28,13 @@
     text-align: center;
 }
 .other {
-    width: 1000px;
-    height: 1000px;
     text-align: center;
 }
 .other img {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     margin: 5px;
-    padding: 5px;
+    padding: 50px;
     border: 5px;
 
 }
