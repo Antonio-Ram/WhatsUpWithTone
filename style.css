@@ -32,10 +32,10 @@
 .MyWork h2 {
     text-align: center;
 }
-.Run-Buddy {
+.Run-Buddy {;
     display: flex;
     justify-content: center;
-    text-align: center;
+    
 }
 .other {
     display: flex;
